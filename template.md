@@ -27,6 +27,4 @@ For one cake (~20 cm loaf pan).
 
 ## Metadata
 
-- Author:   [Lucas Maystre](mailto:lucas@maystre.ch)
-- Origin:   <http://www.simplyrecipes.com/recipes/banana_bread/> (Jan. 2016)
 - Keywords: dessert, banana, cake
