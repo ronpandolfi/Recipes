@@ -51,9 +51,3 @@ Toppings:
 There are plenty of variables to adjust for personal taste. Feel free to add additional vegetables (bell pepper, carrot,
 potato, kabocha squash, eggplant), mix curry rouxs (1/2 mild + 1/2 hot), and even add a secret ingredient (Chocolate?)
 to the mix.
-
-## Metadata
-
-- Author:   [Lucas Maystre](mailto:lucas@maystre.ch)
-- Origin:   <http://www.simplyrecipes.com/recipes/banana_bread/> (Jan. 2016)
-- Keywords: dessert, banana, cake
