@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive. NOTE: change maxdepth when adding sections
 
-Welcome to Ron and Ayaka's Recipe Book's documentation!
-=======================================================
+Welcome to Ron and Ayaka's Recipe Book!
+=======================================
 
 .. toctree::
    :maxdepth: 1
