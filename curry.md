@@ -1,7 +1,7 @@
 # Japanese Curry
 
 Thickened with slow-cooked pork and rich curry roux, this authentic curry dish is savory and sweet.
-Its even more delicious as leftovers.
+It's even more delicious as leftovers.
 
 ## Ingredients
 
